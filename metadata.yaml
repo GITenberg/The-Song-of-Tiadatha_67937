@@ -5,12 +5,17 @@ contributor:
     agent_name: Owen, H. C.
     gutenberg_agent_id: '54543'
     url: http://www.gutenberg.org/2009/agents/54543
+covers:
+- cover_type: archival
+  image_path: 67937-h/images/cover.jpg
 creator:
   author:
     agent_name: Rutter, Owen
     gutenberg_agent_id: '54542'
     url: http://www.gutenberg.org/2009/agents/54542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67937#The-Song-of-Tiadatha
 gutenberg_issued: '2022-04-27'
 identifiers:
   gutenberg: '67937'
